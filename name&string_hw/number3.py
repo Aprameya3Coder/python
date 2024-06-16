@@ -1,0 +1,6 @@
+e = str(input("enter the e number : "))
+f = str(input("enter the f number : "))
+# print(e)
+# print(f)
+print(type(e))
+print(type(f))

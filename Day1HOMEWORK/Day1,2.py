@@ -1,0 +1,1 @@
+# c:\Users\win10\Pictures\Screenshots\Screenshot (453).png

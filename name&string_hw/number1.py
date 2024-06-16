@@ -1,0 +1,6 @@
+a = int(input("enter the a number"))
+b = int(input("enter the b number"))
+# print(a)
+# print(b)
+print(type(a))
+print(type(b))
