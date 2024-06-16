@@ -13,4 +13,4 @@ print(colour)
 # Removing the last item 
 removed_item = colour.pop
 print(colour) #Output: ["red","green"]
-removed_item = #Output: "blue"
+print(removed_item)
