@@ -11,3 +11,4 @@ print(university)
 
 university.insert(1,naya_university)
 print(university)
+

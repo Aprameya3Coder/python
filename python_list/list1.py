@@ -14,3 +14,4 @@ print(colour)
 removed_item = colour.pop
 print(colour) #Output: ["red","green"]
 print(removed_item)
+
