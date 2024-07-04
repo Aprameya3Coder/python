@@ -10,11 +10,11 @@
 # # else :
 #     # print("Adult")
 
-age = float(input())
-if age >= 18 and age <= 110:  
-    print("Adult")
-elif age < 0 or age > 110:
-    print("invalid entry")
-else : 
-    print("Minor")
+# age = float(input())
+# if age >= 18 and age <= 110:  
+#     print("Adult")
+# elif age < 0 or age > 110:
+#     print("invalid entry")
+# else : 
+#     print("Minor")
 
