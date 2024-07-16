@@ -1,5 +1,6 @@
-# Numbers = int(input())
-# if Numbers >= 2:
-#     print('odd')
-# else Numbers <= 2:
-#     print a
+Numbers = int(input())
+if Numbers%2 == 0 : 
+     print("EVEN")
+else :
+    print('Odd')
+     
